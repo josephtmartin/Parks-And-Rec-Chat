@@ -25,6 +25,6 @@ This app was built as a way for the Parks Department to communicate more efficie
 
 
 ## Demo
-![Light Mode](images/parks-rec-light.png)
+![Light Mode](src/assets/images/parks-rec-light.png)
 
-![Dark Mode](images/parks-rec-dark.png)
+![Dark Mode](src/assets/images/parks-rec-dark.png)
