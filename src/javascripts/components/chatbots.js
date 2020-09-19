@@ -1,5 +1,4 @@
 import moment from 'moment';
-// import randomId from './addMessage';
 import data from '../helpers/data/messageData';
 import display from './displayMessages';
 
