@@ -1,6 +1,7 @@
 import messageData from '../helpers/data/messageData';
 import userData from '../helpers/data/userData';
 import deleteMessage from './deleteMessage';
+import chatbot from '../../assets/images/chatbot.png';
 
 const displayMessages = () => {
   const messages = messageData.getMessages();
@@ -13,7 +14,7 @@ const displayMessages = () => {
       if (users[i].name === message.user) {
         profilePic = users[i].img;
       } else if (message.user.toLowerCase().includes('bot')) {
-        profilePic = '../../../images/chatbot.png';
+        profilePic = `${chatbot}`;
       }
     }
 
