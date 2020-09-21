@@ -9,7 +9,7 @@ const fetch = require('node-fetch');
 
 const giphyButton = () => {
   $('#addGif').on('click', () => {
-    let url = `https:api.giphy.com/v1/gifs/search?api_key=${APIKEY}&limit=1&q=`;
+    let url = `https://api.giphy.com/v1/gifs/search?api_key=${APIKEY}&limit=1&q=`;
     const str = $('#giphy').val().trim();
     url = url.concat(str);
     fetch(url)
