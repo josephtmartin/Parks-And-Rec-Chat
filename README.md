@@ -21,10 +21,8 @@ This app was built as a way for the Parks Department to communicate more efficie
 * JQuery
 * SASS
 
-## Site Link/Deploy Status
+## Site Link
 [Parks and Rec Chat Room Link](https://parksandrecchat.netlify.app/)
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/df680465-6adf-45b5-9d86-b9530ddb2c02/deploy-status)](https://app.netlify.com/sites/parksandrecchat/deploys)
 
 ## Demo
 ![Light Mode](src/assets/images/parks-rec-light.png)
