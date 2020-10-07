@@ -1,4 +1,4 @@
-### Chatty
+## Chatty
 This app was built as a way for the Parks Department to communicate more efficiently and to be more productive in their day to day tasks
 
 ## Features
